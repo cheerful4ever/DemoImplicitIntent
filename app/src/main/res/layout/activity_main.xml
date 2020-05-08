@@ -20,4 +20,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Send Email" />
+
+    <Button
+        android:id="@+id/buttonRP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RP" />
 </LinearLayout>
